@@ -1,5 +1,5 @@
 {
-  "url": "https://darosh.github.io/openapi-directory-lite/specs/github.com/v3.json",
+  "url": "http://159.138.29.201/discovery/v1/schemas/5b8df48d1571261c3034c9e9/payload",
   "defaultTitle": "API",
   "proxy": "https://cors-anywhere.herokuapp.com/",
   "defaultDarkTheme": false,
